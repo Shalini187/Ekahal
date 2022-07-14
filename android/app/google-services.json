@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "8142873829",
+    "project_id": "ekahal-69c4b",
+    "storage_bucket": "ekahal-69c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8142873829:android:7e8b140716cbc43f49600c",
+        "android_client_info": {
+          "package_name": "com.ekahal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8142873829-06f87b1licpg7hb397sd2b906tpdba1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_R1akygffTmAhN6A52ZkJ8vxlwFbnYKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8142873829-06f87b1licpg7hb397sd2b906tpdba1i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8142873829-p58166aq6r2hsmbnj3c9ur71h27l5gf3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Ekahal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
